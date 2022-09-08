@@ -92,7 +92,7 @@ ___
 
 * [x] task 2
 
-* [] task 3
+* [ ] task 3
 
 *[x] Task 1
 *[x] Task 2
