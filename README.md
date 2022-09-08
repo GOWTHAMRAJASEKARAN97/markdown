@@ -102,16 +102,7 @@ ___
 
 note : give space b/w * & [ ]
 
-*[x] Task 1
-*[x] Task 2 
-*[ ] Task 3
-
 <!-- Color change BlockQuote-->
 
 `hai`
 
-
-| name     | email             |
-| :------- | :---------------- |
-| sample   | sample@gmail.com  |
-| sample 2 | sample2@gmail.com |
